@@ -4,18 +4,18 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SkylineKernel
+kernel.string=android15
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=vayu
-device.name2=bhima
+device.name1=gta4l
+device.name2=gta4lwifi
 device.name3=
 device.name4=
 device.name5=
-supported.versions=11.0-15.0
+supported.versions=10.0-15.0
 supported.patchlevels=
 '; } # end properties
 
